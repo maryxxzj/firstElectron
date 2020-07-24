@@ -1,6 +1,6 @@
 # firstElectron
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone  https://github.com/maryxxzj/firstElectron.git
 # Go into the repository
 cd firstElectron
 # Install dependencies
