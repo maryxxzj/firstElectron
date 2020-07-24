@@ -1,0 +1,20 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "A Electron application",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mary",
+  "license": "ISC",
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron", 
+    "start" 
+  ],
+  "devDependencies": {
+    "electron": "^9.1.0"
+  }
+}
